@@ -1,0 +1,11 @@
+registration_number,name,email,password,class,section,roll_number,phone
+STU001,Aarav Sharma,aarav.sharma@student.school.com,Student@123,12,A,1,9876543001
+STU002,Priya Patel,priya.patel@student.school.com,Student@123,12,A,2,9876543002
+STU003,Rohit Kumar,rohit.kumar@student.school.com,Student@123,12,A,3,9876543003
+STU004,Sneha Gupta,sneha.gupta@student.school.com,Student@123,12,A,4,9876543004
+STU005,Arjun Singh,arjun.singh@student.school.com,Student@123,12,B,1,9876543005
+STU006,Nisha Verma,nisha.verma@student.school.com,Student@123,12,B,2,9876543006
+STU007,Vikram Joshi,vikram.joshi@student.school.com,Student@123,12,B,3,9876543007
+STU008,Ananya Das,ananya.das@student.school.com,Student@123,12,B,4,9876543008
+STU009,Karan Mehta,karan.mehta@student.school.com,Student@123,11,A,1,9876543009
+STU010,Pooja Reddy,pooja.reddy@student.school.com,Student@123,11,A,2,9876543010
